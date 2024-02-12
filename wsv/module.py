@@ -1,4 +1,4 @@
-from stenway.reliabletxt import *
+from reliable-txt import *
 
 class WsvChar:
 	def isWhitespace(c):

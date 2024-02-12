@@ -1,4 +1,4 @@
-from reliable-txt import *
+from reliable_txt import *
 
 class WsvChar:
 	def isWhitespace(c):
